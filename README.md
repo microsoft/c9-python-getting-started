@@ -1,53 +1,37 @@
----
-page_type: sample
-languages:
-- csharp
-products:
-- dotnet
-description: "Add 150 character max description"
-urlFragment: "update-this-to-unique-url-stub"
----
+# Getting started with Python
 
-# Official Microsoft Sample
+## Overview
 
-<!-- 
-Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
+The series of videos on Channel 9 is designed to help get you up to speed on Python. If you're a beginning developer who's looking to add Python to your quiver of languages, or trying to get started on a data science or web project, these videos can help teach you the foundation necessary to walk through a quick start or other tutorial.
 
-Guidance on onboarding samples to docs.microsoft.com/samples: https://review.docs.microsoft.com/help/onboard/admin/samples/process/onboarding?branch=master
+### What you'll learn
 
-Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
--->
+- The basics of Python
+- Starting a project
+- Common syntax
+- Package management
 
-Give a short description for your sample here. What does it do and why is it important?
+### What we don't cover
 
-## Contents
-
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
-
-| File/folder       | Description                                |
-|-------------------|--------------------------------------------|
-| `src`             | Sample source code.                        |
-| `.gitignore`      | Define what to ignore at commit time.      |
-| `CHANGELOG.md`    | List of changes to the sample.             |
-| `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
-| `README.md`       | This README file.                          |
-| `LICENSE`         | The license for the sample.                |
+- Class design and inheritance
+- Asynchronous programming
+- Basics of programming
 
 ## Prerequisites
 
-Outline the required components and tools that a user might need to have on their machine in order to run the sample. This can be anything from frameworks, SDKs, OS versions or IDE releases.
+- [An understanding of Git](https://git-scm.com/book/en/v1/Getting-Started)
+- Light experience with another programming language, such as [JavaScript](https://www.edx.org/course/javascript-introduction)
 
-## Setup
+## Next steps
 
-Explain how to prepare the sample once the user clones or downloads the repository. The section should outline every step necessary to install dependencies and set up any settings (for example, API keys and output folders).
+As the goal of this course is to help get you up to speed on Python so you can work through a quick start, the next step after completing the videos is to follow a tutorial! Here's a few of our favorites:
 
-## Runnning the sample
-
-Outline step-by-step instructions to execute the sample and see its output. Include steps for executing the sample from the IDE, starting specific services in the Azure portal or anything related to the overall launch of the code.
-
-## Key concepts
-
-Provide users with more context on the tools and services used in the sample. Explain some of the code that is being used and how services interact with each other.
+- [Quickstart: Detect faces in an image using the Face REST API and Python](https://docs.microsoft.com/en-us/azure/cognitive-services/face/QuickStarts/Python?WT.mc_id=python-c9-niner)
+- [Quickstart: Analyze a local image using the Computer Vision REST API and Python](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts/python-disk?WT.mc_id=python-c9-niner)
+- [Quickstart: Using the Python REST API to call the Text Analytics Cognitive Service](https://docs.microsoft.com/en-us/azure/cognitive-services/Text-Analytics/quickstarts/python?WT.mc_id=python-c9-niner)
+- [Tutorial: Build a Flask app with Azure Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/tutorial-build-flask-app-translation-synthesis)
+- [Flask tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask?WT.mc_id=python-c9-niner)
+- [Django tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-django?WT.mc_id=python-c9-niner)
 
 ## Contributing
 
