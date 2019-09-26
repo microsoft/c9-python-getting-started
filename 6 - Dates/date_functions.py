@@ -1,4 +1,5 @@
 #To get current date and time we need to use the datetime library
+#This library gets date and time from your computer
 from datetime import datetime, timedelta
 # The now function returns current date and time
 today = datetime.now()
