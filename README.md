@@ -2,7 +2,7 @@
 
 ## Overview
 
-The series of videos on Channel 9 is designed to help get you up to speed on Python. If you're a beginning developer who's looking to add Python to your quiver of languages, or trying to get started on a data science or web project, these videos can help teach you the foundation necessary to walk through a quick start or other tutorial.
+The video series on Channel 9 is designed to help get you up to speed on Python. If you are a beginning developer who is looking to add Python to your quiver of languages, or you are trying to get started on a data science or web project, these videos can teach you the foundation necessary to walk through a quick start or other tutorial.
 
 ### What you'll learn
 
@@ -24,7 +24,7 @@ The series of videos on Channel 9 is designed to help get you up to speed on Pyt
 
 ## Next steps
 
-As the goal of this course is to help get you up to speed on Python so you can work through a quick start, the next step after completing the videos is to follow a tutorial! Here's a few of our favorites:
+Since the goal of this course is to help you get up to speed on Python so you can work through a quick start, the next step after completing the videos is to follow a tutorial! Here's a few of our favorites:
 
 - [Quickstart: Detect faces in an image using the Face REST API and Python](https://docs.microsoft.com/en-us/azure/cognitive-services/face/QuickStarts/Python?WT.mc_id=python-c9-niner)
 - [Quickstart: Analyze a local image using the Computer Vision REST API and Python](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts/python-disk?WT.mc_id=python-c9-niner)
