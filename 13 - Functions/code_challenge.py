@@ -14,4 +14,19 @@
 # 
 # BONUS: Test your function with the values 6, 4 and divide 
 # Have your function return an error message when invalid values are received
+def calculator(num1, num2,**options):
+    if options.get("action") == "add":
+        return(num1 + num2)
+    if options.get("action") == "substract":
+        return(num1 - num2)
+    if options.get("action") == "multiply":
+        return(num1 * num2)
+    if options.get("action") == "divide":
+        return(num1 / num2)
+        
+        
+print(calculator(6, 4, action = "add"))
+print(calculator(6, 4, action = "substract"))
+print(calculator(6, 4, action = "multiply"))
+print(calculator(6, 4, action = "divide"))
 
