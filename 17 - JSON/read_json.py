@@ -2,10 +2,10 @@
 # You can find documentation on the Computer Vision Analyze Image method here
 # https://westus.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e6355ad44/operations/56f91f2e778daf14a499e1fa
 
-# Use the requests library to simplify making a REST API call from Python 
+# Use the requests library to simplify making a REST API call from Python
 import requests
 
-# We will need the json library to read the data passed back 
+# We will need the json library to read the data passed back
 # by the web service
 import json
 
@@ -14,10 +14,10 @@ vision_service_address = "https://canadacentral.api.cognitive.microsoft.com/visi
 # Add the name of the function we want to call to the address
 address = vision_service_address + "analyze"
 
-# According to the documentation for the analyze image function 
+# According to the documentation for the analyze image function
 # There are three optional parameters: language, details & visualFeatures
-parameters  = {'visualFeatures':'Description,Color',
-               'language':'en'}
+parameters  = {'visualFeatures': 'Description,Color',
+               'language': 'en'}
 
 # We need the key to access our Computer Vision Service
 subscription_key = "cf229a23c3054905b5a8ad512edfa9dd"
@@ -57,4 +57,3 @@ for item in results['description']['tags']:
 
 print('caption text')
 print(results['description']['captions'][0]['text'])
-

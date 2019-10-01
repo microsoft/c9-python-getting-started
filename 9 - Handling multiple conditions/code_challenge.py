@@ -1,5 +1,5 @@
 # Ask a user their name
-# If their first name starts with A or B 
+# If their first name starts with A or B
 # tell them they go to room AB
 # IF their first name starts with C
 # tell them to go to room CD

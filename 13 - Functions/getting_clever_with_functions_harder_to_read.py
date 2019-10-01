@@ -1,9 +1,9 @@
-# Create function get_initial to accept a name and 
+# Create function get_initial to accept a name and
 # return the first letter of the name in uppercase
 # Parameters:
 #   name: the name of a person
 # Return value:
-#   first letter of name passed in as a parameter in uppercase 
+#   first letter of name passed in as a parameter in uppercase
 def get_initial(name):
     initial = name[0:1].upper()
     return initial

@@ -12,4 +12,3 @@ print('Yesterday was: ' + str(yesterday))
 one_week = timedelta(weeks=1)
 last_week = today - one_week
 print('Last week was: ' + str(last_week))
-

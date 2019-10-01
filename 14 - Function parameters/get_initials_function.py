@@ -1,4 +1,4 @@
-# This function will take a name and return the 
+# This function will take a name and return the
 # Create a function to return the first initial of a name
 # Parameters:
 #   name: name of person

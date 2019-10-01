@@ -5,5 +5,5 @@ lowest_grade = input('What was your lowest grade? ')
 lowest_grade = float(lowest_grade)
 
 if gpa >= .85 and lowest_grade >= .70:
-		print('You made the honour roll')
+    print('You made the honour roll')
 

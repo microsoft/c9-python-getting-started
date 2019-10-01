@@ -12,10 +12,10 @@ Strings can be enclosed in single quotes or double quotes
 The input function allows you to prompt a user for a value
 
 - [input](https://docs.python.org/3/library/functions.html#input)
-  
+
 Parameters:
 
-- `prompt`: Message to display to the user  
+- `prompt`: Message to display to the user
 
 return value:
 
