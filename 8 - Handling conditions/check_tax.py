@@ -7,6 +7,6 @@ price = float(price)
 
 # Check if the price is greater than 1.00
 if price >= 1.00:
-	# Everything over $1.00 is charged 7% tax
-	tax = .07
-	print('Tax rate is: ' + str(tax))
+    # Everything over $1.00 is charged 7% tax
+    tax = .07
+    print('Tax rate is: ' + str(tax))

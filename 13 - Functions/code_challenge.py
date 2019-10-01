@@ -6,12 +6,12 @@
 # the function should return the result of the two numbers added or subtracted
 # based on the value passed in for the operator
 #
-# Test your function with the values 6,4, add 
+# Test your function with the values 6,4, add
 # Should return 10
 #
-# Test your function with the values 6,4, subtract 
+# Test your function with the values 6,4, subtract
 # Should return 2
-# 
-# BONUS: Test your function with the values 6, 4 and divide 
+#
+# BONUS: Test your function with the values 6, 4 and divide
 # Have your function return an error message when invalid values are received
 

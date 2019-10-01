@@ -9,7 +9,7 @@
 name = input('What is your name? ')
 
 # If their first name starts with A or B
-# tell them they go to room AB 
+# tell them they go to room AB
 first_letter = name[0:1]
 if first_letter.upper() in ('A','B'):
     room = 'AB'
@@ -28,4 +28,3 @@ else:
     else:
         room = 'OTHER'
 print('Please go to room ' + room)
-

@@ -8,4 +8,3 @@ print(int(first_num) + int(second_num))
 
 # float() converts a string to a decimal or float number e.g. 3.14159, 89.5, 1.0
 print(float(first_num) + float(second_num))
-

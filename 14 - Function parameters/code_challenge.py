@@ -9,8 +9,8 @@
 # Test your function using named notation passing in only the numbers 6 and 4
 # Should return 10
 #
-# Test your function using named notation with the values 6,4, subtract 
+# Test your function using named notation with the values 6,4, subtract
 # Should return 2
-# 
-# BONUS: Test your function with the values 6, 4 and divide 
+#
+# BONUS: Test your function with the values 6, 4 and divide
 # Have your function return an error message when invalid values are received

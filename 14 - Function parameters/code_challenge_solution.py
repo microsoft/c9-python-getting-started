@@ -19,7 +19,7 @@ def calculator(first_number, second_number, operation='ADD'):
 # Should return 10
 
 print('Adding 6 + 4 = ' + str(calculator(first_number=6, second_number=4)))
-# Test your function using named notation with the values 6,4, subtract 
+# Test your function using named notation with the values 6, 4, subtract
 # Should return 2
 #
 print('Subtracting 6 - 4 = ' + str(calculator(first_number=6, second_number=4, operation='subtract')))
