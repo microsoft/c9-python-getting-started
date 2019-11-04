@@ -8,6 +8,9 @@ print(sentence.upper())
 # lower will return the string in lowercase letters
 print(sentence.lower())
 
+# lower and upper will swap return the string in lower to upper and upper to lower letters
+print(sentence.swapcase())
+
 # capitalize will return the string with the first letter uppercase
 # and the rest of the string in lowercase
 print(sentence.capitalize())
@@ -15,3 +18,4 @@ print(sentence.capitalize())
 # count will count the number of occurrences of the value specified
 # in the string, in this case how many times the letter 'a' appears
 print(sentence.count('a'))
+
