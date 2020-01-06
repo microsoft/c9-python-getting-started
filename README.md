@@ -2,7 +2,8 @@
 
 ## Overview
 
-The series of videos on Channel 9 is designed to help get you up to speed on Python. If you're a beginning developer who's looking to add Python to your quiver of languages, or trying to get started on a data science or web project, these videos can help teach you the foundation necessary to walk through a quick start or other tutorial.
+The series of videos on Channel 9 is designed to help get you up to speed on Python. If you're a beginning developer who's looking to add Python to your quiver of languages, or trying to get started on a data science or web project, these videos can help teach you the foundation necessary to walk through a quick start or other tutorial. If you would like to view all the videos here is a [link](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6).
+
 
 ### What you'll learn
 
