@@ -22,6 +22,9 @@ The series of videos on Channel 9 is designed to help get you up to speed on Pyt
 - [An understanding of Git](https://git-scm.com/book/en/v1/Getting-Started)
 - Light experience with another programming language, such as [JavaScript](https://www.edx.org/course/javascript-introduction)
 
+## Link To Vidoes 
+Check to this link to find the :EMOJICODE: point_right:[videos](https://channel9.msdn.com/Series/Intro-to-Python-Development)for this course 
+
 ## Next steps
 
 As the goal of this course is to help get you up to speed on Python so you can work through a quick start, the next step after completing the videos is to follow a tutorial! Here's a few of our favorites:
