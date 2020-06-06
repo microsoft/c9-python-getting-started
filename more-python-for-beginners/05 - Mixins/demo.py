@@ -15,7 +15,7 @@ class SqlDatabase(Connection, Loggable):
         super().__init__()
         self.title = 'Sql Connection Demo'
         self.server = 'Some_Server'
-        
+
 
 def framework(item):
     if isinstance(item, Connection):
