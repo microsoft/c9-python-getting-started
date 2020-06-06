@@ -9,12 +9,14 @@ def print_time(task_name):
     print()
 
 first_name = 'Susan'
+
 # Call print_time() function to display message and current time
 # pass in name of task completed
 print_time('first name assigned')
 
 for x in range(0,10):
-	print(x)
+    print(x)
+
 # Call print_time() function to display message and current time
 # pass in name of task completed
 print_time('loop completed')
