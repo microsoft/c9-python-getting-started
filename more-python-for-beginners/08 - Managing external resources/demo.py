@@ -5,4 +5,4 @@ finally:
     stream.close() # THIS IS REALLY IMPORTANT!!
 
 # with open('output.txt', 'wt') as stream:
-# stream.write('Lorem ipsum dolar')
+#     stream.write('Lorem ipsum dolar')
