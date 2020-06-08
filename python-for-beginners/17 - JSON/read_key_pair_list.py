@@ -32,8 +32,8 @@ image_data = open(image_path, 'rb').read()
 # we need to specify the subscription key and the content type
 # in the HTTP header. Content-Type is application/octet-stream when you pass in a image directly
 headers    = {
-    'Content-Type': 'application/octet-stream',
-    'Ocp-Apim-Subscription-Key': subscription_key
+    'Content-Type':'application/octet-stream',
+    'Ocp-Apim-Subscription-Key':subscription_key
 }
 
 # According to the documentation for the analyze image function
