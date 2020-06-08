@@ -61,4 +61,3 @@ for item in results['description']['tags']:
 
 print('caption text')
 print(results['description']['captions'][0]['text'])
-
