@@ -16,7 +16,9 @@ first_name = input('Enter your first name: ')
 
 # Call get_initial to retrieve first letter of name
 # When you use named notation, you can specify parameters in any order
-first_name_initial = get_initial(force_uppercase=True, \
-                                name=first_name) 
+first_name_initial = get_initial(
+    force_uppercase=True,
+    name=first_name
+) 
 
 print('Your initial is: ' + first_name_initial)
