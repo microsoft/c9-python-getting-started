@@ -16,8 +16,10 @@ address = vision_service_address + "analyze"
 
 # According to the documentation for the analyze image function 
 # There are three optional parameters: language, details & visualFeatures
-parameters  = {'visualFeatures':'Description,Color',
-               'language':'en'}
+parameters  = {
+    'visualFeatures':'Description,Color',
+    'language':'en'
+}
 
 # We need the key to access our Computer Vision Service
 subscription_key = "cf229a23c3054905b5a8ad512edfa9dd"
@@ -29,8 +31,10 @@ image_data = open(image_path, 'rb').read()
 # According to the documentation for the analyze image function
 # we need to specify the subscription key and the content type
 # in the HTTP header. Content-Type is application/octet-stream when you pass in a image directly
-headers    = {'Content-Type': 'application/octet-stream',
-              'Ocp-Apim-Subscription-Key': subscription_key}
+headers    = {
+    'Content-Type':'application/octet-stream',
+    'Ocp-Apim-Subscription-Key':subscription_key
+}
 
 # According to the documentation for the analyze image function
 # we use HTTP POST to call this function
@@ -57,4 +61,3 @@ for item in results['description']['tags']:
 
 print('caption text')
 print(results['description']['captions'][0]['text'])
-
