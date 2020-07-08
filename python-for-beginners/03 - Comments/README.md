@@ -1,6 +1,6 @@
-# Comments
+# Comentários
 
-Comments start with a hash character (#) and allow you to document your code.
-Comments are ignored when code is executed.
+Comentários começam com um hashtag (#) e permitem que você documente o código.
+Comentários são ignorados quando o código é executado.
 
-- [Comments](https://docs.python.org/3/reference/lexical_analysis.html?highlight=comment)
+- [Comentários](https://docs.python.org/3/reference/lexical_analysis.html?highlight=comment)
