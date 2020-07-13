@@ -29,7 +29,8 @@ We do assume you are familiar with another programming language, and some core p
 
 ### Peek at data science tools
 
-[Even more Python for beginners](https://aka.ms/evenmorepython) is a practical exploration of a couple of the most common packages and tools you'll use when working with data and machine learning. While we won't dig into why you choose particular machine learning models (that's another course), you will get hands-on with Jupyter Notebooks, and create and test models using sci-kit-learn and pandas.
+[Even more Python for beginners](https://aka.ms/evenmorepython) is a practical exploration of a couple of the most common packages and tools you'll use when working with data and machine learning. While we won't dig into why you choose particular machine learning models (that's another course), you will get hands-on with Jupyter Notebooks, and create and test models using scikit-learn and pandas.
+
 
 ## Next steps
 
