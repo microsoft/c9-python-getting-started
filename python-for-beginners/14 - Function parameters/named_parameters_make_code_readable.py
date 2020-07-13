@@ -26,8 +26,10 @@ if first_number > second_number:
 if first_number > second_number:
     # This function call by itself is easier to understand because I can 
     # see how the values I pass in map to the function parameters
-    error_logger(error_code=45, 
-                 error_severity=1,
-                 log_to_db=True,
-                 error_message='Second number greater than first',
-                 source_module='adding_method')
+    error_logger(
+        error_code=45, 
+        error_severity=1,
+        log_to_db=True,
+        error_message='Second number greater than first',
+        source_module='adding_method'
+    )

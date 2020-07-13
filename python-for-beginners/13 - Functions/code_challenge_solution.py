@@ -6,7 +6,6 @@
 # the function should return the result of the two numbers added or subtracted
 # based on the value passed in for the operator
 #
-
 def calculator(first_number, second_number, operation):
     if operation.upper() == 'ADD':
         return(float(first_number) + float(second_number))
