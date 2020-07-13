@@ -2,7 +2,7 @@
 
 ## Overview
 
-These threes series on Channel 9 and YouTube are designed to help get you up to speed on Python. If you're a beginning developer looking to add Python to your quiver of languages, or trying to get started on a data science or web project which uses Python, these videos are here to help show you the foundations necessary to walk through a tutorial or other quick start.
+These three series on Channel 9 and YouTube are designed to help get you up to speed on Python. If you're a beginning developer looking to add Python to your quiver of languages or trying to get started on data science or web project which uses Python, these videos are here to help show you the foundations necessary to walk through a tutorial or other quick start.
 
 We do assume you are familiar with another programming language, and some core programming concepts. For example, we highlight the syntax for boolean expressions and creating classes, but we don't dig into what a [boolean](https://en.wikipedia.org/wiki/Boolean_data_type) is or [object oriented design](https://en.wikipedia.org/wiki/Object-oriented_design). We show you how to perform the tasks you're familiar with in other languages in Python.
 
@@ -29,11 +29,12 @@ We do assume you are familiar with another programming language, and some core p
 
 ### Peek at data science tools
 
-[Even more Python for beginners](https://aka.ms/evenmorepython) is a practical exploration of a couple of the most common packages and tools you'll use when working with data and machine learning. While we won't dig into why you choose particular machine learning models (that's another course), you will get hands on with Jupyter Notebooks, and create and test models using scikit-learn and pandas.
+[Even more Python for beginners](https://aka.ms/evenmorepython) is a practical exploration of a couple of the most common packages and tools you'll use when working with data and machine learning. While we won't dig into why you choose particular machine learning models (that's another course), you will get hands-on with Jupyter Notebooks, and create and test models using scikit-learn and pandas.
+
 
 ## Next steps
 
-As the goal of these courses is to help get you up to speed on Python so you can work through a quick start. The next step after completing the videos is to follow a tutorial! Here's a few of our favorites:
+As the goal of these courses is to help get you up to speed on Python so you can work through a quick start. The next step after completing the videos is to follow a tutorial! Here are a few of our favorites:
 
 - [Quickstart: Detect faces in an image using the Face REST API and Python](https://docs.microsoft.com/azure/cognitive-services/face/QuickStarts/Python?WT.mc_id=python-c9-niner?WT.mc_id=python-c9-niner)
 - [Quickstart: Analyze a local image using the Computer Vision REST API and Python](https://docs.microsoft.com/azure/cognitive-services/computer-vision/quickstarts/python-disk?WT.mc_id=python-c9-niner?WT.mc_id=python-c9-niner)
@@ -46,6 +47,7 @@ As the goal of these courses is to help get you up to speed on Python so you can
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+
 
 When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
 
