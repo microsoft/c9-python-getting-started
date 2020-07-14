@@ -10,7 +10,7 @@ person_dict['City']='Seattle'
 staff_dict ={}
 staff_dict['Program Manager']=person_dict
 # Convert dictionary to JSON object
-staff_json = json.dumps(staff_dict)
+staff_json = json.loads(staff_dict)
 
 # Print JSON object
-print(staff_json)
+print(json.dumps(staff_json))

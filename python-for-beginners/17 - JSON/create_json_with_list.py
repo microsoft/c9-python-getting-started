@@ -12,7 +12,7 @@ languages_list = ['CSharp','Python','JavaScript']
 person_dict['languages']= languages_list
 
 # Convert dictionary to JSON object
-person_json = json.dumps(person_dict)
+person_json = json.loads(person_dict)
 
 # Print JSON object
-print(person_json)
+print(json.dumps(person_json))
