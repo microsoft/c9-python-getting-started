@@ -9,7 +9,7 @@
 #                   2 - warning code can continue but may be missing information in records
 #   log_to_db: Should this error be logged to the database 
 #   error_message: Error message to display to user and write to database
-#   source_module: Name of the python module that generated ther error
+#   source_module: Name of the python module that generated the error
 
 def error_logger(error_code, error_severity, log_to_db, error_message, source_module):
     print('oh no error: ' + error_message)
